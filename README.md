@@ -4,7 +4,6 @@ Calculadora construída no curso de JavaScript da OneBitCode! 💗
 
 # Preview
 
-![image](https://user-images.githubusercontent.com/50672568/235539659-594f4fa4-aee9-46b6-840c-3acebf5dc8f8.png)
-
-![image](https://user-images.githubusercontent.com/50672568/235539688-db8e2c6e-3a56-4834-bb82-8274e67ff7e1.png)
+![image](https://user-images.githubusercontent.com/50672568/235539750-3ea91b2d-80f0-49fa-b2fb-2004391d7464.png)
+![image](https://user-images.githubusercontent.com/50672568/235539775-3b2cd023-66eb-43c4-9c79-5ff7e9d41195.png)
 
